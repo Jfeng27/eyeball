@@ -1,1 +1,19 @@
 //add eyeball code here
+size(400,400);
+background(255,255,255);
+//eyewhite
+fill(0,0,0);
+ellipse(200,200,260,260);
+//iris
+fill(0,216,137);
+ellipse(200,200,100,100);
+//iris2
+noStroke();
+fill(0,255,139);
+ellipse(200,200,60,60);
+//pupil
+fill(0,0,0);
+ellipse(200,200,20,20);
+//circle
+fill(255,255,255);
+ellipse(165,220,20,20);
